@@ -108,7 +108,7 @@ This dataset contains the following features:
 
 ### 🙋‍♂️ Author
 
-**Vamshi K**
+**Kammampati Saivamshi**
 *Aspiring Data Scientist*
 📫 Reach me on [LinkedIn](https://www.linkedin.com)
 
