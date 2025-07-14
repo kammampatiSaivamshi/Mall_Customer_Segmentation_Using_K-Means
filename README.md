@@ -1,10 +1,10 @@
 ## 🛍️ Mall Customer Segmentation Using K-Means
 
-### 📌 Overview
+###  Overview
 
 Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways. This project uses the **K-Means clustering algorithm** to segment mall customers based on their demographics and spending habits.
 
-### 🎯 Objective
+###  Objective
 
 To apply unsupervised machine learning (K-Means Clustering) to identify distinct customer segments based on:
 
@@ -16,7 +16,7 @@ This helps mall marketers to understand customer groups and tailor their strateg
 
 ---
 
-### 📂 Dataset
+###  Dataset
 
 **Source:** `Mall_Customers.csv`
 This dataset contains the following features:
@@ -31,7 +31,7 @@ This dataset contains the following features:
 
 ---
 
-### ⚙️ Project Workflow
+### ⚙ Project Workflow
 
 1. **Data Loading and Exploration**
 
@@ -58,7 +58,7 @@ This dataset contains the following features:
 
 ---
 
-### 📊 Key Results
+###  Key Results
 
 * Optimal clusters determined using Elbow Method
 * Visualized 3–5 customer groups based on income and spending score
@@ -71,9 +71,9 @@ This dataset contains the following features:
 
 ---
 
-### 📌 Technologies Used
+###  Technologies Used
 
-* Python 🐍
+* Python 
 * Libraries:
 
   * `pandas`, `numpy` – data manipulation
@@ -82,7 +82,7 @@ This dataset contains the following features:
 
 ---
 
-### 📎 Future Scope
+###  Future Scope
 
 * Use **Hierarchical Clustering** for comparison
 * Add **RFM (Recency, Frequency, Monetary)** analysis
@@ -90,7 +90,7 @@ This dataset contains the following features:
 
 ---
 
-### ✅ How to Run
+###  How to Run
 
 1. Clone the repository or download the notebook
 2. Install dependencies:
